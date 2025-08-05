@@ -235,11 +235,7 @@ button.addEventListener("click", () => {
 - Add an input box and log the value as user types.
 - What other events can you use? (e.g., `mouseover`, `keydown`, `submit`)
 
----
 
-## ✅ Tips for Practice
-
-- Use [JSFiddle](https://jsfiddle.net/), [CodePen](https://codepen.io/), or [Visual Studio Code](https://code.visualstudio.com/)
 - Practice typing the examples yourself.
 - Try changing values and see what happens.
 
